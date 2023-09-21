@@ -1,5 +1,4 @@
-
-Breast Cancer Prediction
+# Breast Cancer Prediction
 
 Breast Cancer Prediction is a classification task aimed at predicting the diagnosis of a breast mass as either malignant or benign. This project utilizes a dataset comprising features computed from digitized images of fine needle aspirates (FNA) of breast masses. These features describe various characteristics of cell nuclei present in the image, providing quantitative measurements for assessing cell nucleus characteristics and aiding in the early detection and diagnosis of breast cancer.
 
