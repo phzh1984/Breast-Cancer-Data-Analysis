@@ -6,11 +6,11 @@ Breast Cancer Prediction is a classification task aimed at predicting the diagno
 
 Dataset Information
 
-The dataset contains the following information for each instance:
+The dataset contains the following metrics for each instance:
 
 ID number: A unique identifier for each sample.
 
-Diagnosis: The target variable indicating the diagnosis, where 'M' represents malignant and 'B' represents benign.
+Diagnosis: The target variable indicates the diagnosis, where 'M' represents malignant and 'B' represents benign.
 
 For each cell nucleus, ten real-valued features are computed, which include:
 
@@ -36,13 +36,4 @@ Fractal dimension: This feature approximates the "coastline" of the nucleus, usi
 
 Project Goals
 
-The primary objective of this project is to develop a predictive model using machine learning techniques that can accurately classify breast masses as malignant or benign based on the provided features. Early detection and diagnosis of breast cancer can greatly impact patient outcomes, and this predictive model can play a vital role in assisting medical professionals.
-
-
-Model Building
-
-In this project, you'll find a machine learning model-building process where various classification algorithms are applied and evaluated to predict breast cancer diagnosis. The evaluation metrics include accuracy, precision, recall, F1-score, and ROC-AUC.
-
-Conclusion
-
-This project aims to contribute to early breast cancer detection by providing a machine-learning model that can assist in classifying breast masses as malignant or benign. The insights gained from this analysis can be valuable for medical professionals and researchers in the field of breast cancer diagnosis.
+The primary objective of this project is to develop a predictive model using machine learning techniques that can accurately classify breast masses as malignant or benign based on the provided features. Early detection and diagnosis of breast cancer can greatly impact patient outcomes, and this predictive model can play a vital role in assisting medical professionals. The insights gained from this analysis can be valuable for medical professionals and researchers in the field of breast cancer diagnosis.
